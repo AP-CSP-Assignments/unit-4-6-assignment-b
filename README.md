@@ -1,4 +1,4 @@
-# unit-4-6-assignment-a
+# unit-4-6-assignment-b
 
 ## To compile code
 All code must be compiled before you can run it.  To compile means that you are converting your C++ code into a language that the computer can understand (e.g., binary).  To compile C++ code, run the following command in a terminal:
