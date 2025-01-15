@@ -11,17 +11,11 @@
 #include <string>    // std::string, std::getline
 #include <vector>    // std::vector
 
-// In-Class Examples
-// greet procedure
-
-// goodbye procedure
-
-
-// TODO: Create squareNum
-
-// TODO: Create distance
-
-// TODO: Create rollDice
+// In-class example
+double midpoint(double a, double b)
+{
+    return (a + b) / 2.0;
+}
 
 int main()
 {
